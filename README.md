@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**areesha-296/areesha-296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Areesha 👋
 
-Here are some ideas to get you started:
+I'm a beginner data analytics enthusiast focused on building
+clear, insight-driven dashboards using Power BI and Excel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Currently focusing on:
+- Power BI (DAX, data modeling, interactive dashboards)
+- Excel for data analysis
+- SQL (in progress)
+
+📘 Learning & exploring:
+- Python for data analysis
+- Exploratory Data Analysis (EDA)
+- Data visualization concepts
+
+📊 Featured Project:
+- Sales Performance Dashboard (Power BI)  
+  👉 https://github.com/areesha-296/Power-_BI_Sales_Dashboard-
+  
+🎯 Goal:
+To gain practical experience through internships and real-world
+data projects as a data analyst.
+
+🛠 Tools:
+Power BI • Excel • SQL • Python (learning) • GitHub
